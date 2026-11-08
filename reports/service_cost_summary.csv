@@ -1,0 +1,5 @@
+service,cost_usd
+AWS Lambda,165
+Amazon EC2,1080
+Amazon RDS,650
+Amazon S3,275
