@@ -71,3 +71,11 @@ Today focused on establishing the development environment and creating the GitHu
 - Create the initial cloud spending CSV dataset.
 - Begin learning Python fundamentals and basic data manipulation.
 - Prepare the project for its first data analysis script.
+
+## Amazon QuickSight Dashboard
+
+Built with Amazon Quick Apps using simulated spending data.
+
+![Dashboard overview](screenshots/01-dashboard-overview.png)
+![Budget vs actual spending](screenshots/02-budget-vs-actual.png)
+![Business recommendations](screenshots/03-business-recommendations.png)
