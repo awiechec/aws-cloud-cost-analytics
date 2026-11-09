@@ -79,3 +79,27 @@ Built with Amazon Quick Apps using simulated spending data.
 ![Dashboard overview](screenshots/01-dashboard-overview.png)
 ![Budget vs actual spending](screenshots/02-budget-vs-actual.png)
 ![Business recommendations](screenshots/03-business-recommendations.png)
+
+## Day 3 — Amazon S3 Bucket Configuration & Security Review
+
+**Objective:** Gain hands-on experience reviewing Amazon S3 storage configurations, security settings, and operational best practices.
+
+### Tasks Completed
+
+- Verified the `cloud_spending.csv` dataset was stored in Amazon S3.
+- Reviewed Block Public Access settings and bucket permissions.
+- Confirmed Object Ownership was set to Bucket owner enforced.
+- Verified server-side encryption using SSE-S3.
+- Identified that S3 Bucket Versioning was disabled.
+- Documented findings in a technical review.
+
+### Skills Developed
+
+- Amazon S3 administration
+- Cloud security fundamentals
+- AWS infrastructure inspection
+- Cloud operations and troubleshooting documentation
+
+### Documentation
+
+[View Day 3 — S3 Bucket Review](docs/s3-bucket-review.md)
