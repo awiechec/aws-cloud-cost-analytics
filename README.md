@@ -103,3 +103,32 @@ Built with Amazon Quick Apps using simulated spending data.
 ### Documentation
 
 [View Day 3 — S3 Bucket Review](docs/s3-bucket-review.md)
+
+## Day 4 — AWS CLI & S3 Troubleshooting
+
+**Objective:** Develop hands-on experience using the AWS Command Line Interface (CLI) to inspect cloud resources, verify S3 configurations, and troubleshoot common setup issues.
+
+### Tasks Completed
+
+- Installed and configured AWS CLI v2.40.0 in GitHub Codespaces.
+- Authenticated to AWS using browser-based login.
+- Verified AWS identity using AWS Security Token Service (STS).
+- Listed existing S3 buckets and confirmed that `cloud_spending.csv` was stored in the project bucket.
+- Inspected S3 Bucket Versioning through AWS CLI.
+- Verified all four Block Public Access settings were enabled.
+- Confirmed default server-side encryption using SSE-S3 (AES256).
+- Verified that SSE-C encryption was blocked.
+- Troubleshot AWS CLI installation and authentication errors.
+
+### AWS Skills Developed
+
+- AWS CLI commands and terminal navigation
+- Amazon S3 resource administration
+- AWS STS and authentication fundamentals
+- Cloud storage security configuration
+- Command-line troubleshooting
+- Technical documentation
+
+### Documentation
+
+[View Day 4 — AWS CLI & S3 Configuration Review](docs/aws-cli-s3-review.md)
