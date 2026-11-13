@@ -132,3 +132,31 @@ Built with Amazon Quick Apps using simulated spending data.
 ### Documentation
 
 [View Day 4 — AWS CLI & S3 Configuration Review](docs/aws-cli-s3-review.md)
+
+## Day 5 — AWS S3 Troubleshooting Lab
+
+**Objective:** Practice diagnosing and resolving common AWS CLI and Amazon S3 issues using real command-line troubleshooting scenarios.
+
+### Tasks Completed
+
+- Identified and resolved an expired AWS authentication session.
+- Reauthenticated to AWS using browser-based login.
+- Verified S3 object availability using `head-object`.
+- Reproduced an HTTP 404 error by requesting an incorrect S3 object key.
+- Investigated bucket contents using recursive object listing.
+- Identified the root cause of the missing-object error.
+- Corrected the object key and verified successful access.
+- Documented troubleshooting steps, root causes, resolutions, and verification results.
+
+### AWS Skills Developed
+
+- AWS CLI troubleshooting
+- Amazon S3 administration
+- AWS STS and authentication
+- Error investigation
+- Root cause analysis
+- Technical documentation
+
+### Documentation
+
+[View Day 5 — AWS S3 Troubleshooting Lab](docs/day-5-s3-troubleshooting.md)
